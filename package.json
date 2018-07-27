@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -b calculateDistancePoints.test.js",
+    "test2": "mocha -b calculateDistancePoints.test.js",
     "test1": "mocha -b calculateStylePoints.test.js",
-    "test3": "mocha -b calculateTotalPoints.test.js"
+    "test": "mocha -b calculateTotalPoints.test.js"
   },
   "keywords": [],
   "author": "",
