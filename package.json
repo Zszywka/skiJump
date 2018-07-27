@@ -1,0 +1,17 @@
+{
+  "name": "skiJump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -b calculateDistancePoints.test.js",
+    "test1": "mocha -b calculateStylePoints.test.js",
+    "test3": "mocha -b calculateTotalPoints.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
